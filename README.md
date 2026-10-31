@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/License-Not%20specified-lightgrey" alt="License not specified">
 </p>
 
 JobInsight is an interactive job-market analytics and career exploration platform built with Python and Streamlit. It brings job listing analysis, skill demand insights, salary analytics, resume matching, and career exploration together in one dashboard.
