@@ -1,0 +1,69 @@
+skill,frequency
+Communication,38363
+Leadership,17695
+Excel,6273
+Project Management,5506
+Data Analysis,5116
+Python,3475
+SQL,2766
+Agile,2323
+AWS,1804
+Azure,1658
+R,1398
+Java,1346
+Oracle,1072
+Power BI,969
+Kubernetes,955
+GCP,935
+Linux,865
+Docker,702
+React,681
+LLM,663
+Tableau,658
+JavaScript,652
+Data Science,649
+Git,601
+TypeScript,567
+Terraform,557
+Scrum,533
+Statistics,517
+Data Visualization,510
+Machine Learning,479
+Data Engineering,453
+ETL,407
+Generative AI,403
+GitHub,381
+Angular,334
+Jenkins,323
+PostgreSQL,306
+Databricks,304
+Snowflake,301
+SQL Server,297
+Kafka,289
+Spark,270
+HTML,247
+PyTorch,236
+Node.js,235
+CSS,221
+Business Intelligence,177
+TensorFlow,175
+Google Cloud,168
+Vue,161
+Deep Learning,155
+NLP,147
+MySQL,147
+Looker,126
+MongoDB,118
+FastAPI,89
+Pandas,79
+Computer Vision,78
+Hadoop,57
+Scikit-learn,48
+NumPy,48
+Django,44
+Flask,39
+Artificial Intelligence,28
+Natural Language Processing,9
+C++,5
+Seaborn,4
+Matplotlib,3
