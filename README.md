@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/License-Not%20specified-lightgrey" alt="License not specified">
 </p>
 
 JobInsight is an interactive job-market analytics and career exploration platform built with Python and Streamlit. It brings job listing analysis, skill demand insights, salary analytics, resume matching, and career exploration together in one dashboard.
@@ -299,3 +300,13 @@ Areas of interest:
 ## 13. License
 
 No license is currently specified for this repository. Until a license is added, standard copyright restrictions apply.
+
+---
+
+## 14. Repository
+
+GitHub Repository:
+
+[https://github.com/Varadraj2992/JobInsight](https://github.com/Varadraj2992/JobInsight)
+
+JobInsight is a portfolio project demonstrating practical skills in Python, data analytics, machine learning, natural language processing, Streamlit dashboard development, and career insight generation.
